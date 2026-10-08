@@ -1,0 +1,19 @@
+{
+  "name": "salespeak-company-context",
+  "version": "1.0.0",
+  "description": "Answers about your own company from its recorded knowledge, and shows where its sources disagree.",
+  "author": {
+    "name": "Salespeak",
+    "email": "support@salespeak.ai"
+  },
+  "homepage": "https://platform.salespeak.ai/docs#company-connector",
+  "keywords": [
+    "company-context",
+    "sales",
+    "marketing",
+    "knowledge",
+    "gtm"
+  ],
+  "repository": "https://github.com/salespeak-ai/company-context-plugin",
+  "license": "MIT"
+}
