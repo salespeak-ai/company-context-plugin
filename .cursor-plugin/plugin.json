@@ -15,5 +15,6 @@
     "gtm"
   ],
   "repository": "https://github.com/salespeak-ai/company-context-plugin",
-  "license": "MIT"
+  "license": "MIT",
+  "logo": "assets/logo.svg"
 }
