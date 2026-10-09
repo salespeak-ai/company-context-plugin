@@ -1,5 +1,6 @@
 {
   "name": "salespeak-company-context",
+  "displayName": "Salespeak Company Context",
   "version": "1.0.0",
   "description": "Answers about your own company from its recorded knowledge, and shows where its sources disagree.",
   "author": {
